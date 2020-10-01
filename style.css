@@ -19,20 +19,19 @@ span {
 ul {
   color: white;
   font-size: 1.7em;
-display:block;
-margin-left:60px;
-
-  }
+  display: block;
+  margin-left: 60px;
+}
 
 a {
   color: white;
   text-shadow: 2px 2px 3px red;
 }
-tr{
- display:flex;
-flex-wrap:wrap;
-flex-direction:row;
-flex:1;
+tr {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex: 1;
 }
 #one {
   padding-left: 2.5em;
@@ -40,8 +39,7 @@ flex:1;
   color: white;
   text-decoration: none;
   padding-bottom: 2em;
-  display:flex;
-
+  display: flex;
 }
 h3 {
   font-size: 2em;
@@ -70,19 +68,19 @@ h3 {
 }
 img {
   width: 60%;
-display:flex;
-  margin-left:auto;
-  margin-right:auto;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
   box-sizing: border-box;
-justify-content:center
+  justify-content: center;
 }
 p {
-  color: white;
+  color: rgb(189, 180, 52);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   display: flex;
   font-size: 1.7em;
   justify-content: center;
-margin-left:20px;
-  
+  margin-left: 20px;
 }
 footer {
   color: white;
